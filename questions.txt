@@ -1,0 +1,12 @@
+Acron - A tiny, fast JavaScript parser written in JavaScript.
+acorn is a tiny, fast JavaScript parser, written completely in JavaScript. Apart from acorn, there is esprima, also fast but not as acorn.
+
+
+D:/Work_Area/Practice/Projects/Ram/18012022/react_v2_material_ex_api/node_modules/@mui/x-data-grid/x-data-grid"
+
+
+npx create-react-app Quiz-App
+cd Quiz-App
+npm start
+
+
