@@ -1,0 +1,1 @@
+(this["webpackJsonpsample-react"]=this["webpackJsonpsample-react"]||[]).push([[11],{2117:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return Settings}));var s=n(4);function Settings(){return Object(s.jsx)("div",{children:"Settings page!"})}}}]);
